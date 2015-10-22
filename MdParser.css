@@ -1,0 +1,12 @@
+/* file to have dedicted styles for the output of the parsing */
+/* thez start with mdp */
+
+TEXTAREA.f_dataform {
+    width: 700px;
+    height: 250px;
+    border-bottom: #888888 1px solid;
+    border-left: #888888 1px solid;
+    border-top: #888888 1px solid;
+    border-right: #888888 1px solid;
+    padding: 15px;
+}
